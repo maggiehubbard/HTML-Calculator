@@ -1,0 +1,49 @@
+body{
+      background: url(http://www.designlovefest.com/wp-content/uploads/downloads/2015/05/Photo-Apr-12-1-26-03-PM.jpg) no-repeat center center; 
+    background-size: auto;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-weight: 400;
+    font-size: 3em;
+    text-shadow: 2px 2px black;
+    padding-top: 50px;
+    
+}
+
+#calc
+{
+    width: 250px;
+    height: 350px;
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 50px;
+    background-color: gray;
+    text-align:center;
+    box-shadow: 0px 0px 3px 4px WHITE;
+}
+#display{
+    box-shadow: 0px 0px 0px 4px;
+    font: 20px bold;
+    height: 3em;
+    border: 1px black solid;
+    border-radius: 10px;
+    
+}
+#keys{
+    box-shadow: 0px 0px 0px 1px;
+    height: 3em;
+    width: 3.5em;
+    margin: 5px;
+    border-radius: 5px;
+    
+}
+#equals {
+   box-shadow: 0px 0px 0px 1px;
+    height: 3em;
+    width: 8em;
+    margin: 5px;
+    border-radius: 5px; 
+}
