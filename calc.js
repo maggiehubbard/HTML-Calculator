@@ -13,7 +13,7 @@ function toBox (x){
 
 function answer(){
     var box = document.getElementById("display");
-    x=box.value
+    x=box.value;
     x=eval(x);
     box.value=x;
 }
